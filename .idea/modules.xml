@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Capitulo01/Capitulo01.iml" filepath="$PROJECT_DIR$/Capitulo01/Capitulo01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capitulo02/Capitulo02.iml" filepath="$PROJECT_DIR$/Capitulo02/Capitulo02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capitulo03/Capitulo03.iml" filepath="$PROJECT_DIR$/Capitulo03/Capitulo03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capitulo04/Capitulo04.iml" filepath="$PROJECT_DIR$/Capitulo04/Capitulo04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaproblemscoding-book.iml" filepath="$PROJECT_DIR$/javaproblemscoding-book.iml" />
+    </modules>
+  </component>
+</project>
